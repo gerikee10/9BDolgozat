@@ -1,0 +1,4 @@
+-git checkout
+-diff
+-git reset
+-git pull origin master
