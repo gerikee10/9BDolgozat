@@ -1,0 +1,13 @@
+Darmai Gerg‹
+cd : mapp ba bel‚p‚s
+md : mappa l‚trehoz sa
+git clone : github-r¢l repository lekl¢noz sa
+copy con : dokumentum l‚trehoz sa
+git checkout : egy  llom ny visszavon sa
+git diff : kl”nbs‚g megn‚z‚se
+git reset : sz¡npadra feltett  llom ny leszed‚se
+git pull origin master : githubr¢l le lehet t”lteni a leg£jabb verzi¢j t a projektnek
+git status : megmutatja a jelenlegi  llapotot
+git commit : v ltoztat sok v‚grehajt sa
+git add : f jl hozz ad sa a repositoryhoz
+git push origin master : v ltoztat s felt”lt‚se a githubra
